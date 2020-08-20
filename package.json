@@ -1,0 +1,8 @@
+{
+  "name": "giveme-sounds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tgfjt-boxbox/giveme-sounds",
+  "author": "Takashi Fujita <tgfjt.mail@gmail.com>",
+  "license": "MIT"
+}
